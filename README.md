@@ -31,4 +31,5 @@ The regional sales and profitability analysis reveals that certain geographical 
 **Recommendation**: Analyze the regional performance in-depth to identify the key drivers behind the performance gaps. Develop and implement targeted initiatives to address the identified pain points in underperforming regions, focusing on factors such as market dynamics, competitive positioning, or operational efficiency.
 
 ## Conclusion
-The analysis of the Power BI Dashboard has uncovered valuable insights and identified opportunities for the organization to optimize its sales performance, enhance profitability, and drive sustainable growth. By addressing the key findings and implementing the recommended strategies, the company can leverage the power of data-driven decision-making to achieve its business objectives.
+The analysis of the Power BI Dashboard has uncovered valuable insights and identified opportunities for the organization to optimize its sales performance, enhance profitability, and drive sustainable growth. By addressing the key findings and implementing the recommended strategies, the company can leverage the power of data-driven decision-making to achieve its business objectives. 
+## https://github.com/vgopika999/Power-BI-Dashboard/blob/main/Power%20BI%20Dashboard.pbix
